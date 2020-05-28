@@ -1,16 +1,21 @@
 img {
   float: left;
   padding: 10px;
+  margin-right: 20px;
 }
 
 .sidebar {
   float: right;
   border: 5px dashed blue;
   background-color: yellow;
-  margin: 12px;
+  margin: 12px;ed
   padding: 30px;
 }
 
 p {
   color: red;
+}
+
+.bandmembers {
+  margin-bottom: 100px;
 }
